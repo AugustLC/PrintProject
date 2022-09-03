@@ -1,0 +1,17 @@
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\PrintProject.exe.config
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\PrintProject.exe
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\PrintProject.pdb
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\obj\Debug\PrintProject.csprojResolveAssemblyReference.cache
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\obj\Debug\PrintProject.Form1.resources
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\obj\Debug\PrintProject.Properties.Resources.resources
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\obj\Debug\PrintProject.csproj.GenerateResource.Cache
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\obj\Debug\PrintProject.exe
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\obj\Debug\PrintProject.pdb
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\DPDFRenderNative_x64.dll
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\DPDFRenderNative_x86.dll
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\ceTe.DynamicPDF.40.dll
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\DynamicPDF.Rasterizer.dll
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\ceTe.DynamicPDF.40.xml
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\DynamicPDF.Rasterizer.xml
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\RawPrint.dll
+C:\Users\Леонид\Desktop\PrintProject\PrintProject\bin\Debug\BouncyCastle.Crypto.dll
